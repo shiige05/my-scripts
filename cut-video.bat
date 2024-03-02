@@ -1,0 +1,1 @@
+ffmpeg -ss {HH:MM:SS} -to {hh:mm:ss} -i {input.mp4} -c copy {output.mp4}
